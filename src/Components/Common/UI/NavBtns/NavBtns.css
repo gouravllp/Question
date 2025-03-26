@@ -1,0 +1,14 @@
+.forSvg:hover span svg path {
+  fill: #317bdb !important;
+}
+.btnGraident {
+  /* background: linear-gradient(360deg, #317bdb 0%, #25d4e3 100%); */
+  /* background: rgb(255,117,55);
+background: linear-gradient(0deg, rgba(255,117,55,1) 49%, rgba(247,246,242,1) 100%); */
+  background: rgb(255, 117, 55);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 117, 55, 1) 86%,
+    rgba(247, 246, 242, 1) 100%
+  );
+}
