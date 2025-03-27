@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72cff16e.css",
+    "main.js": "/static/js/main.363801ef.js",
+    "static/media/ModelImg2.png": "/static/media/ModelImg2.6d7d9902770f146bbf8f.png",
+    "static/media/ShoulderGreenImg.png": "/static/media/ShoulderGreenImg.ef9877bf05763f366c58.png",
+    "static/media/ShoulderYellowImg.png": "/static/media/ShoulderYellowImg.05006b007ca8bb96c5fa.png",
+    "static/media/ShoulderRedImg.png": "/static/media/ShoulderRedImg.704c4d1392a22e05b9dc.png",
+    "static/media/Arm3dGreen.png": "/static/media/Arm3dGreen.f9bcdda819636936c720.png",
+    "static/media/Arm3dYellow.png": "/static/media/Arm3dYellow.195f5a10214b7f5cf89d.png",
+    "static/media/Arm3dRed.png": "/static/media/Arm3dRed.1db0850b11792198ca33.png",
+    "static/media/ShoulderDefaultImg.png": "/static/media/ShoulderDefaultImg.64521937e48ed6fd1788.png",
+    "static/media/ArmDefaultImg.png": "/static/media/ArmDefaultImg.1c1105287b21231ee41c.png",
+    "static/media/CellPatternBg.png": "/static/media/CellPatternBg.38313d9d5264bb306efb.png",
+    "static/media/LowerBackSSImg.png": "/static/media/LowerBackSSImg.e5c17cda1f2c471a39f8.png",
+    "static/media/ThighSSImg.png": "/static/media/ThighSSImg.19ff6035adbe95e01a8d.png",
+    "static/media/MidBackSSImg.png": "/static/media/MidBackSSImg.eff9d51e99933483700b.png",
+    "static/media/ArmSSImg.png": "/static/media/ArmSSImg.73fc60ed8dbbfb24b5d4.png",
+    "static/media/ScreenShortNeck.png": "/static/media/ScreenShortNeck.d01786e10d9a6264589a.png",
+    "static/media/ShoulderSSImg.png": "/static/media/ShoulderSSImg.624b8a73b863a71e1529.png",
+    "static/media/LegsSSImg.png": "/static/media/LegsSSImg.80c8c9e229100034f042.png",
+    "static/media/UpperBackSSImg.png": "/static/media/UpperBackSSImg.1f252f87c772151cfedf.png",
+    "index.html": "/index.html",
+    "main.72cff16e.css.map": "/static/css/main.72cff16e.css.map",
+    "main.363801ef.js.map": "/static/js/main.363801ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72cff16e.css",
+    "static/js/main.363801ef.js"
+  ]
+}
